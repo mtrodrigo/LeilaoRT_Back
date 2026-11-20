@@ -1,0 +1,11 @@
+@LeilaoRT.Api_HostAddress = http://localhost:5179
+
+GET {{LeilaoRT.Api_HostAddress}}/todos/
+Accept: application/json
+
+###
+
+GET {{LeilaoRT.Api_HostAddress}}/todos/1
+Accept: application/json
+
+###

@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="LeilaoRT.Api/LeilaoRT.Api.csproj" />
+  <Project Path="LeilaoRT.Domain/LeilaoRT.Domain.csproj" />
+</Solution>
